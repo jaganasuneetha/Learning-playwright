@@ -1,5 +1,5 @@
 //Grade marks entered
-let score = -89;
+let score = 85;
 if(score >=90 && score<=100){
     console.log("Grade: A");
 }
