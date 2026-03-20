@@ -39,3 +39,14 @@ while(t<=10){
     t++;
 
 }
+
+
+console.log(true + true);
+console.log(10%3);
+
+console.log(Boolean([]))
+for (let i = 0; i < 5; i++)
+     { if (i === 3) break; 
+        
+     }
+ console.log(i);
