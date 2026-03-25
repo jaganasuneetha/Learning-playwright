@@ -6,4 +6,4 @@ console.log(third);
 let [fi, se,...thi] = [20,30,40,34,45,23];
 console.log(fi);
 console.log(se);
-console.log(thi);
+console.log(thi );
